@@ -1,1 +1,0 @@
-# shopify-template-authentication-and-authorization
